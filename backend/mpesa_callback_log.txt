@@ -1,0 +1,4 @@
+2026-04-20 22:00:51 Callback: 
+2026-04-20 23:13:35 Callback: {"Body":{"stkCallback":{"MerchantRequestID":"9e6d-444b-8406-69685912707b1037","CheckoutRequestID":"ws_CO_21042026001306769708374149","ResultCode":1037,"ResultDesc":"No response from user."}}}
+2026-04-20 23:16:03 Callback: {"Body":{"stkCallback":{"MerchantRequestID":"dae6-4339-bc45-d6204ac834dd12033","CheckoutRequestID":"ws_CO_21042026001556877708374149","ResultCode":1032,"ResultDesc":"Request Cancelled by user."}}}
+2026-04-21 00:23:52 Callback: {"Body":{"stkCallback":{"MerchantRequestID":"8d43-4df1-bfe9-ab6288a4de4d7429","CheckoutRequestID":"ws_CO_21042026012323461703726576","ResultCode":1037,"ResultDesc":"No response from user."}}}
